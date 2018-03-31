@@ -17,8 +17,7 @@
 
 
 Используемые ресурсы:
-- [ссылка](http://google.com)
-- [http://zetcode.com/gui/pyqt5/firstprograms/](работа с окном Qt)
-- [http://pyqt.sourceforge.net/Docs/PyQt5/QtWidgets.html#PyQt5-QtWidgets](дока по QWidget)
-- [http://pyqt.sourceforge.net/Docs/PyQt5/QtGui.html#PyQt5-QtGui](дока по QtGui) 
-- [https://janvdd.wordpress.com/2016/08/10/pyqt5-qtableview-qstandardmodel-and-returning-cell-values/](пример по QTableView)
+- [работа с окном Qt](http://zetcode.com/gui/pyqt5/firstprograms/)
+- [дока по QWidget](http://pyqt.sourceforge.net/Docs/PyQt5/QtWidgets.html#PyQt5-QtWidgets)
+- [дока по QtGui](http://pyqt.sourceforge.net/Docs/PyQt5/QtGui.html#PyQt5-QtGui)
+- [пример по QTableView](https://janvdd.wordpress.com/2016/08/10/pyqt5-qtableview-qstandardmodel-and-returning-cell-values/)
