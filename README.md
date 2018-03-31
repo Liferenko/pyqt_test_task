@@ -17,6 +17,7 @@
 
 
 Используемые ресурсы:
+- [ссылка](http://google.com)
 - [http://zetcode.com/gui/pyqt5/firstprograms/](работа с окном Qt)
 - [http://pyqt.sourceforge.net/Docs/PyQt5/QtWidgets.html#PyQt5-QtWidgets](дока по QWidget)
 - [http://pyqt.sourceforge.net/Docs/PyQt5/QtGui.html#PyQt5-QtGui](дока по QtGui) 
