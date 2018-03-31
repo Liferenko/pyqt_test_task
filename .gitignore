@@ -1,1 +1,4 @@
+*.swp
+*.tmp.swp
+*.swo
 temp_files/

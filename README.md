@@ -13,3 +13,11 @@
 * Качество кода
 * User-friendliness
 * Время выполнения
+
+
+
+Используемые ресурсы:
+- [http://zetcode.com/gui/pyqt5/firstprograms/](работа с окном Qt)
+- [http://pyqt.sourceforge.net/Docs/PyQt5/QtWidgets.html#PyQt5-QtWidgets](дока по QWidget)
+- [http://pyqt.sourceforge.net/Docs/PyQt5/QtGui.html#PyQt5-QtGui](дока по QtGui) 
+- [https://janvdd.wordpress.com/2016/08/10/pyqt5-qtableview-qstandardmodel-and-returning-cell-values/](пример по QTableView)
